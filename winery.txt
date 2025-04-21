@@ -1,0 +1,28 @@
+My New Winery Website
+
+-should start off with a slider*
+-use bootstrap
+-less js animation*
+-have fixed top transparent as sliding down navbar*
+home, about, images, contact - (only links*)
+
+*should download pictures
+	should research on how to construct a winery website
+		shouldn't be much interactive with the php server side scripting language- all js(backend)
+
+NOTE: Consistency, Simple, floating in aos animations only
+
+Duration:- two weeks tops
+
+
+<!--“The true character of a site is only revealed through the work and determination of tending each vineyard with meticulous care and vinifying with minimalist winemaking techniques that fully express the terroir.” – Paul Hobbs-->
+
+
+<!--Vineyards
+A collection of acclaimed estate and growers’ vineyards with pedigrees that allow them to stand on their own. Planted to high density vines and farmed by the block and row using sustainable practices to ensure impeccable fruit at harvest.-->
+
+<!--South Africa’s “winelands,” as they’re known, are among the most beautiful wine-producing regions in the world. Dramatic landscapes marked by mountains that jut up seemingly out of nowhere, rugged coastlines, and world-class hospitality have made this country a must-visit destination for wine lovers.
+
+And while it’s often categorized as a New World wine country, South Africa’s vineyards have been thriving for centuries—all those ships sailing around the Cape of Good Hope needed to replenish their rations! In that sense, South Africa’s wine is both Old and New World.-->
+
+<!--Regardless of how you classify its wines, South Africa is home to some of the most noteworthy producers on the planet, with a new generation of vintners and growers injecting a deep sense of excitement into the nation’s wine industry. It’s impossible to cover all of the young winemakers who are reshaping the scene here, but this baker’s dozen of standouts is a great place to start-->
